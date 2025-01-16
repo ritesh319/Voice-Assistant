@@ -1,6 +1,7 @@
 # pip install SpeechRecognition
 # pip install PyAudio
 # pip install pywhatkit
+# install gTTS and playsound too
 
 import speech_recognition as sr
 import pyaudio
@@ -41,7 +42,6 @@ def get_audio():
             break
 
     return speech_text
-
 
 
 text = get_audio()
