@@ -1,0 +1,1 @@
+After installing all the requirements, run the main file and say anything to search with keyword 'google' and 'YouTube' to search on the respective platforms.
